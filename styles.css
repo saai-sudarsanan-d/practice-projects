@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+.nav-center {
+    border: solid rgba(10, 1, 47);
+    background-color: rgba(10, 1, 47);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1vh;
+}
+.nav-center h4 {
+    color : white;
+    font-family: 'Rubik Iso','monospace', cursive;
+    font-size: 4vh;
+    margin-right: 20%;
+}
+.nav-center ul {
+    list-style: none;
+    display: flex;
+}
+.nav-center li {
+    margin-right: 4vh;
+    border: white solid;
+    background-color: white;
+    border-radius: 2vh;
+    padding: 4%;
+}
+.nav-center li:hover{
+    margin-right: 4vh;
+    border: black solid;
+    background-color: aliceblue;
+    border-radius: 2vh;
+    padding: 4%;
+}
+.nav-center li a {
+    color :rgba(10, 1, 47);
+    text-decoration: none;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container {
+    padding-top: 10%;
+    text-align: center;
+}
+.container h2 {
+    border: solid;
+    display: inline;
+    border :rgba(10, 1, 47);
+    background-color: rgba(10, 1, 47);
+    color: white;
+    font-family: 'monospace', cursive;
+    padding: 1vh 3vh 1vh 3vh;
+    border-radius: 2vh;
+}
+
+/* CSS */
+.btn {
+  align-items: center;
+  appearance: none;
+  background-color: #FCFCFD;
+  border-radius: 4px;
+  border-width: 0;
+  box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px,rgba(45, 35, 66, 0.3) 0 7px 13px -3px,#D6D6E7 0 -3px 0 inset;
+  box-sizing: border-box;
+  color: #36395A;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: "JetBrains Mono",monospace;
+  height: 48px;
+  justify-content: center;
+  line-height: 1;
+  list-style: none;
+  overflow: hidden;
+  padding-left: 16px;
+  padding-right: 16px;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  transition: box-shadow .15s,transform .15s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  will-change: box-shadow,transform;
+  font-size: 18px;
+  margin-top: 2vh;
+}
+
+.btn:focus {
+  box-shadow: #D6D6E7 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+}
+
+.btn:hover {
+  box-shadow: rgba(45, 35, 66, 0.4) 0 4px 8px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+  transform: translateY(-2px);
+}
+
+.btn:active {
+  box-shadow: #D6D6E7 0 3px 7px inset;
+  transform: translateY(2px);
+}
