@@ -3,10 +3,10 @@ A script to perform DNS Exfiltration and setting up DNS Server on Ubuntu Server 
 
 # Here are the demos
 ## For File
-![File](https://github.com/saai-sudarsanan-d/DNS-Exfiltration/blob/main/imgs/file-exfil-demo.png)
+![File](imgs/file-exfil-demo.png)
 
 ## For String
-![String](https://github.com/saai-sudarsanan-d/DNS-Exfiltration/blob/main/imgs/string-exfil-demo.png)
+![String](imgs/string-exfil-demo.png)
 
 If you want to test it out on your own VM
 **Use this link to setup DNS:** 
