@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="./favicon.ico"/>
+    <link rel="stylesheet" type="text/css" href="./styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DynaPuff&family=Inter:wght@200&display=swap" rel="stylesheet">
+    <title>Sky Blue</title>
+</head>
+<body>
+    <header>
+        <span id="htext">Sky Blue</span>
+    </header>
+    <main>
+        <div class="search">
+            <input type="text" placeholder="Enter City name without errors" id="bar"/>
+            <button id="ok" class="button">Ok</button>
+            <button id="findme" class="button">Find Me</button>
+        </div>
+        <div class="dashboard">
+            <div class="lside">
+                <div class="lat-long">
+                    <div id="loc">Location : #</div>
+                    <div id="lat">Latitude : #</div>
+                    <div id="long">Longitude: #</div>
+                </div>
+                <div class="params">
+                    <div id="temp">Temperature : #</div>
+                    <div id="hum">Humidity : #</div>
+                    <div id="pre">Pressure : #</div>
+                </div>
+            </div>
+            <div class="rside">
+                <img src="./sample.png" id="wimg">
+            </div>
+        </div>
+    </main>
+    <h1 id="weather">
+        #
+    </h1>
+    <script src="index.js"></script>
+</body>
+</html>
