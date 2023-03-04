@@ -1,0 +1,4 @@
+GIF98
+<?php
+echo getenv('PATH')
+?>
