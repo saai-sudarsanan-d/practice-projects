@@ -5,7 +5,7 @@
 
 **ARP Protocol :** ARP is the Address Resolution Protocol, it is used to discover the MAC Address associated with an IP Address in the Link Layer.
 
-![ARP Process](https://github.com/saai-sudarsanan-d/ARP-Poisoning/blob/main/arp_process.jpg)
+![ARP Process](arp_process.jpg)
 
 **Setting :**
 ---
