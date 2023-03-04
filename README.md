@@ -62,7 +62,7 @@ A Simple solution will be to compress each file into a *tar archive* which will 
 
 ### Example
 
-![Example use of tar](https://github.com/saai-sudarsanan-d/Rook-DirectoryIntegrityCheck/blob/main/permission-change.png)
+![Example use of tar](permission-change.png)
 
 This way we can check for changes in file permissions also.
 
