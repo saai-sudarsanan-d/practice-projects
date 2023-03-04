@@ -1,5 +1,7 @@
 # My Practice Projects
 
+Every Repo is a branch, click on the titles to navigate there.
+
 - [My Practice Projects](#my-practice-projects)
   - [Sky Blue](#sky-blue)
     - [Learning Outcomes](#learning-outcomes)
@@ -28,7 +30,7 @@
   - [Port Scanner](#port-scanner)
     - [Learning Outcomes](#learning-outcomes-11)
 
-## Sky Blue
+## [Sky Blue](https://github.com/saai-sudarsanan-d/practice-projects/tree/sky-blue)
 - A Simple Weather app to show
   - Location
   - Latitude
@@ -46,7 +48,7 @@
 - Learnt how to configure and setup API-Keys
 - Learnt how to handle JSON Files
 
-## Color Flipper
+## [Color Flipper](https://github.com/saai-sudarsanan-d/practice-projects/tree/color-flipper)
 
 - A Very Simple Front End Practice Application
 - You have to click a button and it generates random colors
@@ -59,7 +61,7 @@
 - Working with Event Listeners
 - Changing Styles Dynamically
 
-## Chem API
+## [Chem API](https://github.com/saai-sudarsanan-d/practice-projects/tree/chem-api)
 
 - A backend for a Molecular Structure Viewing App
 - Generates Structural Images and hosted on heroku
@@ -74,7 +76,7 @@
 - Using rdkit
 - Using Flask to send image files
 
-## Iris Classifier App
+## [Iris Classifier App](https://github.com/saai-sudarsanan-d/practice-projects/tree/iris-classifier)
 
 - Created a basic Iris Classification Model
 - The Model was given a UI using Streamlit
@@ -89,7 +91,7 @@
 - Pickling Models
 - Basic Machine Learning
 
-## Red Wine Quality App
+## [Red Wine Quality App](https://github.com/saai-sudarsanan-d/practice-projects/tree/red-wine-quality)
 
 - Created a basic Red Wine Quality Model
 - Made a pkl file
@@ -102,7 +104,7 @@
 - Data Visualization
 - Plotly
 
-## Rook Directory Integrity Scanner
+## [Rook Directory Integrity Scanner](https://github.com/saai-sudarsanan-d/practice-projects/tree/rook)
 
 - A project in Bash
 - It is a script that runs and generates a log containing hashes of all files in a directory and names it accordingly. It can be used to detect changes made in critical directories by running it with a cron-job
@@ -117,7 +119,7 @@ You can view a more detailed version of the documentation [here](https://github.
 - Tar Archives
 - MD5 Hashing
 
-## ARP Tools
+## [ARP Tools](https://github.com/saai-sudarsanan-d/practice-projects/tree/arp-tools)
 
 - A project in python using Scapy
 - A tool for ARP Cache Poisoning was written
@@ -136,7 +138,7 @@ You can view a more detailed version of the documentation [here](https://github.
 - Argparse in python
 - Scapy Python
 
-## COVID Drug Research
+## [COVID Drug Research](https://github.com/saai-sudarsanan-d/practice-projects/tree/covid-drug-research)
 
 - A project made for a Drug Design hackathon conducted by the Government of India.
 - A number of prospective drugs were visualized and their molelcular structure was examined, including remdesivir and hydroxychloroquinone.
@@ -157,14 +159,14 @@ You can view a more detailed version of the documentation [here](https://github.
 
 [Link to Resources](https://github.com/saai-sudarsanan-d/practice-projects/blob/cybersec-resources/README.md)
 
-## DVWA Solutions
+## [DVWA Solutions](https://github.com/saai-sudarsanan-d/practice-projects/tree/dvwa-solutions)
 
 - I implemented all exercies on DVWA (Damn Vulnerable Web Application) and wrote the write up to all challenges.
 - Do not view my solutions if you havent done them on your own yet.
 
 [Link to Solution](https://github.com/saai-sudarsanan-d/practice-projects/tree/dvwa-solutions#readme)
 
-## DNS Exfiltration
+## [DNS Exfiltration](https://github.com/saai-sudarsanan-d/practice-projects/tree/dns-exfil)
 
 - Wrote a python script to perform DNS Exfiltration
 - Setup a Ubuntu Server and made it work as a DNS Server 
@@ -177,7 +179,7 @@ You can view a more detailed version of the documentation [here](https://github.
 - DNS Configuration
 - Scapy for DNS 
 
-## Keylogger 
+## [Keylogger](https://github.com/saai-sudarsanan-d/practice-projects/tree/keylogger) 
 
 - Wrote a malware using python and compiled it to a executable
 - The malware is a keylogger and sends the logged key data to a malicious server that I hosted on heroku
@@ -194,7 +196,7 @@ You can view a more detailed version of the documentation [here](https://github.
 - Converting python file to executable
 - Virus Analysis on VirusTotal
 
-## NetSim 
+## [NetSim](https://github.com/saai-sudarsanan-d/practice-projects/tree/netsim) 
 
 - Contains tcl-generator
 - NS2 required tcl scripts to work with, so I wrote a script that takes as input the tcl files and generates a tcl scipt that can be run using ns2.
@@ -209,7 +211,7 @@ You can view a more detailed version of the documentation [here](https://github.
 - AWK Scripting
 - Different MANET Routing Protocols and their uses
 
-## Port Scanner
+## [Port Scanner](https://github.com/saai-sudarsanan-d/practice-projects/tree/port-scanner)
 
 - Implemented a Port Scanner using Scapy
 - Made a Tkinter based interface for using it
