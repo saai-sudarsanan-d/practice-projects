@@ -35,16 +35,16 @@ If there is one of the following changes the diff command will show you:
 ## DEMO
 
 **Before Changes**
-![Before Changes](https://github.com/saai-sudarsanan-d/Rook-DirectoryIntegrityCheck/blob/main/before-changes.png)
+![Before Changes](before-changes.png)
 
 **Changing**
-![Changing](https://github.com/saai-sudarsanan-d/Rook-DirectoryIntegrityCheck/blob/main/malicious-change.png)
+![Changing](malicious-change.png)
 
 **After Changes**
-![After Changes](https://github.com/saai-sudarsanan-d/Rook-DirectoryIntegrityCheck/blob/main/after-changes.png)
+![After Changes](after-changes.png)
 
 **diff Command**
-![diff](https://github.com/saai-sudarsanan-d/Rook-DirectoryIntegrityCheck/blob/main/diff.png)
+![diff](diff.png)
 
 ## Drawbacks
 
