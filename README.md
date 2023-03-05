@@ -4,31 +4,20 @@ Every Repo is a branch, click on the titles to navigate there.
 
 - [My Practice Projects](#my-practice-projects)
   - [Sky Blue](#sky-blue)
-    - [Learning Outcomes](#learning-outcomes)
   - [Color Flipper](#color-flipper)
-    - [Learning Outcomes](#learning-outcomes-1)
   - [Chem API](#chem-api)
-    - [Learning Outcomes](#learning-outcomes-2)
   - [Iris Classifier App](#iris-classifier-app)
-    - [Learning Outcomes](#learning-outcomes-3)
   - [Red Wine Quality App](#red-wine-quality-app)
-    - [Learning Outcomes](#learning-outcomes-4)
   - [Rook Directory Integrity Scanner](#rook-directory-integrity-scanner)
-    - [Learning Outcomes](#learning-outcomes-5)
   - [ARP Tools](#arp-tools)
-    - [Learning Outcomes](#learning-outcomes-6)
   - [COVID Drug Research](#covid-drug-research)
-    - [Learning Outcomes](#learning-outcomes-7)
   - [Cyber Security Resources](#cyber-security-resources)
   - [DVWA Solutions](#dvwa-solutions)
   - [DNS Exfiltration](#dns-exfiltration)
-    - [Learning Outcomes](#learning-outcomes-8)
   - [Keylogger](#keylogger)
-    - [Learning Outcomes](#learning-outcomes-9)
   - [NetSim](#netsim)
-    - [Learning Outcomes](#learning-outcomes-10)
   - [Port Scanner](#port-scanner)
-    - [Learning Outcomes](#learning-outcomes-11)
+  - [Rust Minigrep](#rust-minigrep)
 
 ## [Sky Blue](https://github.com/saai-sudarsanan-d/practice-projects/tree/sky-blue)
 - A Simple Weather app to show
@@ -42,8 +31,7 @@ Every Repo is a branch, click on the titles to navigate there.
 
 [![Sky Blue Site](imgs/skyblue1808.png)](https://sky-blue-1808.netlify.app/)
 
-### Learning Outcomes
-
+***Learning Outcomes***
 - Learn how to use Vannila JS Commands
 - Learnt how to configure and setup API-Keys
 - Learnt how to handle JSON Files
@@ -56,8 +44,7 @@ Every Repo is a branch, click on the titles to navigate there.
 
 [![Color Flipper Site](imgs/color-flipper-1808.png)](https://color-flipper-1808.netlify.app/)
 
-### Learning Outcomes
-
+***Learning Outcomes***
 - Working with Event Listeners
 - Changing Styles Dynamically
 
@@ -71,8 +58,7 @@ Every Repo is a branch, click on the titles to navigate there.
 
 [![Chem Api Site](imgs/chem-api-1808.png)](https://structgen.shadow2y.repl.co)
 
-### Learning Outcomes
-
+***Learning Outcomes***
 - Using rdkit
 - Using Flask to send image files
 
@@ -84,8 +70,7 @@ Every Repo is a branch, click on the titles to navigate there.
 
 ![Iris Classifier](imgs/iris-classifier.png)
 
-### Learning Outcomes
-
+***Learning Outcomes***
 - Using Streamlit
 - Using Heroku
 - Pickling Models
@@ -99,8 +84,7 @@ Every Repo is a branch, click on the titles to navigate there.
 
 ![Red Wine Quality Visual](imgs/red-wine-quality.png)
 
-### Learning Outcomes
-
+***Learning Outcomes***
 - Data Visualization
 - Plotly
 
@@ -113,8 +97,7 @@ Every Repo is a branch, click on the titles to navigate there.
 
 You can view a more detailed version of the documentation [here](https://github.com/saai-sudarsanan-d/practice-projects/tree/rook#readme)
 
-### Learning Outcomes
-
+***Learning Outcomes***
 - Bash Scripting
 - Tar Archives
 - MD5 Hashing
@@ -131,8 +114,7 @@ You can view a more detailed version of the documentation [here](https://github.
 
 [Read More](https://github.com/saai-sudarsanan-d/practice-projects/tree/arp-tools#readme)
 
-### Learning Outcomes
-
+***Learning Outcomes***
 - ARP Cache Poisoning Attack
 - ARP Poisoning Detection
 - Argparse in python
@@ -147,13 +129,12 @@ You can view a more detailed version of the documentation [here](https://github.
 
 ![Drug Research](imgs/virus.png)
 
-### Learning Outcomes
-
+***Learning Outcomes***
 - Smiles, PDB, Fasta Formats
 - Molecular Docking concepts
 - RDKIT python
 
-## Cyber Security Resources
+## [Cyber Security Resources](https://github.com/saai-sudarsanan-d/practice-projects/tree/cybersec-resources)
 
 - If you are new to cybersecurity, use these resources I have compiled and make your life a little easier.
 
@@ -174,8 +155,7 @@ You can view a more detailed version of the documentation [here](https://github.
 
 ![DNS Exfiltration Demo](imgs/file-exfil.png)
 
-### Learning Outcomes
-
+***Learning Outcomes***
 - DNS Configuration
 - Scapy for DNS 
 
@@ -189,8 +169,7 @@ You can view a more detailed version of the documentation [here](https://github.
 
 [Read More](https://github.com/saai-sudarsanan-d/practice-projects/tree/keylogger#readme)
 
-### Learning Outcomes
-
+***Learning Outcomes***
 - Flask
 - PyInput
 - Converting python file to executable
@@ -204,8 +183,7 @@ You can view a more detailed version of the documentation [here](https://github.
 
 ![netsim](imgs/netsim.png)
 
-### Learning Outcomes
-
+***Learning Outcomes***
 - NS2
 - TCL
 - AWK Scripting
@@ -219,9 +197,19 @@ You can view a more detailed version of the documentation [here](https://github.
 
 ![Port Scanner](imgs/port-scanner.png)
 
-### Learning Outcomes
-
+***Learning Outcomes***
 - Tkinter
 - Port Scanning using TCP
 - Scapy for TCP
 - Multiprocessing in Python
+
+## Rust Minigrep
+
+- A practice project to learn programming in Rust
+- Made with the help of [Let's get Rusty](https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
+
+![Sample Grep](imgs/rust-minigrep.png)
+
+***Learning Outcomes***
+- Rust Programming
+- Ownership model for memory management
