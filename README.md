@@ -203,7 +203,7 @@ You can view a more detailed version of the documentation [here](https://github.
 - Scapy for TCP
 - Multiprocessing in Python
 
-## Rust Minigrep
+## [Rust Minigrep](https://github.com/saai-sudarsanan-d/practice-projects/tree/rust-minigrep)
 
 - A practice project to learn programming in Rust
 - Made with the help of [Let's get Rusty](https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
