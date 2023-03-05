@@ -10,7 +10,7 @@ pub struct Config {
 impl Config {
     pub fn new(args: &[String]) -> Result<Config, &str> {
 
-        if args.len() < 3{
+        if args.len() < 3 {
             return Err("Not enough arguements!");
         }
 
@@ -57,6 +57,13 @@ pub fn search<'a>(query: &str, contents: &'a str,flags:&str) -> SearchResults<'a
     SearchResults { results,count }
 }
 
+pub fn documentation(){
+    println!("{} ./minigrep <query> <flags> <filename>","USAGE :".blue().bold());
+    println!("{} Print the Number of Occurences of the Query","-c".red().bold());
+    println!("{} Invert Selection","-v".red().bold());
+    println!("{} Print line numbers","-l".red().bold());
+    println!("{} Print the time elapsed in searching","-t".red().bold());
+}
 
 pub fn run(config:Config) -> Result<(),Box<dyn Error>> {
     println!("Searching for {}",config.query);
